@@ -1,0 +1,21 @@
+{
+	"name": "fabcar",
+	"version": "1.0.0",
+	"description": "fabcar chaincode implemented in node.js",
+	"engines": {
+		"node": ">=8.4.0",
+		"npm": ">=5.3.0"
+	},
+	"scripts": {
+		"start": "node fabcar.js"
+	},
+	"engine-strict": true,
+	"license": "Apache-2.0",
+	"dependencies": {
+<<<<<<< HEAD
+		"fabric-shim": "~1.4.0"
+=======
+		"fabric-shim": "unstable"
+>>>>>>> 25d7de4fa6262a9afb5a2de1c2b3b67acdbd9513
+	}
+}
